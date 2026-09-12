@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "2.1.0",
-  "versionCode": 6,
+  "latestVersion": "2.1.1",
+  "versionCode": 7,
   "publishedAt": "2026-09-13",
-  "title": "免费联网更新中心",
+  "title": "修复手机顶部系统栏遮挡",
   "notes": [
-    "新增免费更新检查与版本说明页面",
-    "联网失败时78课教材仍可完整离线使用",
-    "更新只跳转到项目GitHub Release页面，由用户决定是否下载"
+    "根据手机实际状态栏、刘海和挖孔区域自动留出顶部空间",
+    "同时避让底部系统导航栏和软键盘",
+    "78课精修内容、横向面包板、图片放大和免费更新功能保持完整"
   ],
   "releasePage": "https://github.com/Zdw980602/dianzi-diy-releases/releases/latest",
   "minimumAndroid": 26
