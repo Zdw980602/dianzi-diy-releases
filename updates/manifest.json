@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "latestVersion": "2.1.0",
+  "versionCode": 6,
+  "publishedAt": "2026-09-13",
+  "title": "免费联网更新中心",
+  "notes": [
+    "新增免费更新检查与版本说明页面",
+    "联网失败时78课教材仍可完整离线使用",
+    "更新只跳转到项目GitHub Release页面，由用户决定是否下载"
+  ],
+  "releasePage": "https://github.com/Zdw980602/dianzi-diy-releases/releases/latest",
+  "minimumAndroid": 26
+}
