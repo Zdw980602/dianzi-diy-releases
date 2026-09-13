@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "2.1.1",
-  "versionCode": 7,
+  "latestVersion": "2.2.0",
+  "versionCode": 8,
   "publishedAt": "2026-09-13",
-  "title": "修复手机顶部系统栏遮挡",
+  "title": "78课最终审校与设置页整理",
   "notes": [
-    "根据手机实际状态栏、刘海和挖孔区域自动留出顶部空间",
-    "同时避让底部系统导航栏和软键盘",
-    "78课精修内容、横向面包板、图片放大和免费更新功能保持完整"
+    "完成78课接线孔位、极性、计算数值与文字的最终审校",
+    "修正并联回路、三极管、MOS、555及GD32按键、ADC、I2C示例",
+    "底部菜单由六项整理为五项，学习记录与教材更新合并到设置"
   ],
   "releasePage": "https://github.com/Zdw980602/dianzi-diy-releases/releases/latest",
   "minimumAndroid": 26
