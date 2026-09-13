@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "2.2.0",
-  "versionCode": 8,
+  "latestVersion": "2.3.0",
+  "versionCode": 9,
   "publishedAt": "2026-09-13",
-  "title": "78课最终审校与设置页整理",
+  "title": "课程配套的57个元器件项目实战",
   "notes": [
-    "完成78课接线孔位、极性、计算数值与文字的最终审校",
-    "修正并联回路、三极管、MOS、555及GD32按键、ADC、I2C示例",
-    "底部菜单由六项整理为五项，学习记录与教材更新合并到设置"
+    "加入57个现有元器件项目，包含物料核对、制作步骤、完成判据和安全边界",
+    "每个项目关联建议先修课程，按78课学习进度循序渐进开放实操",
+    "修正GD32、马达驱动、电源、锂电与气体传感器等高风险或不一致步骤"
   ],
   "releasePage": "https://github.com/Zdw980602/dianzi-diy-releases/releases/latest",
   "minimumAndroid": 26
